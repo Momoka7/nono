@@ -9,7 +9,6 @@ const config = {
     height: 1080,
     parent: "game-container",
     backgroundColor: "#192a56",
-    pixelArt: true,
     scale: {
         mode: Phaser.Scale.FIT,
         autoCenter: Phaser.Scale.CENTER_BOTH,
